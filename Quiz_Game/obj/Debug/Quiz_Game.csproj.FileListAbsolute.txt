@@ -1,0 +1,15 @@
+C:\Users\Tasos\source\repos\Quiz_Game\bin\Debug\Quiz_Game.exe.config
+C:\Users\Tasos\source\repos\Quiz_Game\bin\Debug\Quiz_Game.exe
+C:\Users\Tasos\source\repos\Quiz_Game\bin\Debug\Quiz_Game.pdb
+C:\Users\Tasos\source\repos\Quiz_Game\obj\Debug\Quiz_Game.csproj.AssemblyReference.cache
+C:\Users\Tasos\source\repos\Quiz_Game\obj\Debug\Quiz_Game.Form1.resources
+C:\Users\Tasos\source\repos\Quiz_Game\obj\Debug\Quiz_Game.Properties.Resources.resources
+C:\Users\Tasos\source\repos\Quiz_Game\obj\Debug\Quiz_Game.csproj.GenerateResource.cache
+C:\Users\Tasos\source\repos\Quiz_Game\obj\Debug\Quiz_Game.csproj.CoreCompileInputs.cache
+C:\Users\Tasos\source\repos\Quiz_Game\obj\Debug\Quiz_Game.exe
+C:\Users\Tasos\source\repos\Quiz_Game\obj\Debug\Quiz_Game.pdb
+C:\Users\Tasos\source\repos\Quiz_Game\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tasos\source\repos\Quiz_Game\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Tasos\source\repos\Quiz_Game\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tasos\source\repos\Quiz_Game\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tasos\source\repos\Quiz_Game\obj\Debug\Quiz_Game.csproj.ResolveComReference.cache
